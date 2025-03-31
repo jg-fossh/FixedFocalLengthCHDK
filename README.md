@@ -8,10 +8,10 @@ All rights reserved.
 | META          | DATA                                    |
 | :------------ | :-------------------------------------- |
 | _Project_     | Fixed Focal Length CHDK Scripts         |
-| _Version_     | v0.5                                    |
+| _Version_     | v1.0                                    |
 | _Lincense_    | GNU GPLv3                               |
 | _Prepared by_ | Jose R Garcia (jg-fossh@protonmail.com) |
-| _Status_      | ***Pre-Release***                       |
+| _Status_      | ***Released***                          |
 
 ## Scope
 
