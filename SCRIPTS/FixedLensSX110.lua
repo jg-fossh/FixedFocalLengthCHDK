@@ -9,7 +9,7 @@ All rights reserved.
 | Meta      | Data       
 | :-------- | :-----------
 | _Project_ |
-| _Version_ | 0.5
+| _Version_ | 1.0
 | _Author_  | Jose Garcia
 | _License_ | GNU GPLv3
 
@@ -93,7 +93,8 @@ set_zoom(c_flopt_tbl[i_fl_op])
 -- Display selected option
 print("\n\n\nEqv. Focal Length:")
 print(c_opcat_tbl[i_fl_op])
-sleep(600)
+print("\n")
+sleep(1200)
 
 -- Done. Exit Alt to allow normal usage
 exit_alt()
